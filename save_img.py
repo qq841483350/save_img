@@ -1,4 +1,5 @@
 #coding:utf8
+#__author__="liyatao"  微信:841483350 
 #抓取网页图片下载到本地
 import urllib2,re,os,time,sys,urllib
 reload(sys)
